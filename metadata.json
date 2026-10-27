@@ -1,0 +1,6 @@
+{
+  "name": "Cul-de-Sac Chaos: Double Trouble",
+  "description": "A colorful 3D suburban mischief sandbox where two best friends cause trouble and disturb the peace with smart AI companion, car spray-painting lookouts, and chaotic local co-op.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
